@@ -2,7 +2,7 @@
 
 > 🔒 **Note:** The source code for this project is proprietary and closed-source due to commercial NDAs. This repository serves as a technical showcase, architecture breakdown, and demonstration of the production system.
 
-## 📺 [Watch the System Demo (60s)](PASTE_YOUR_YOUTUBE_LINK_HERE)
+## 📺 [Watch the System Demo]([PASTE_YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=zEgYVuOZJtU))
 
 ## 🚀 Project Overview
 **Platinum Castle Accounting** required a secure, compliant way to exchange sensitive tax documents with clients, replacing insecure email workflows.
@@ -30,5 +30,5 @@ I architected and deployed a **Serverless Client Portal** using **Next.js 16** a
 
 ---
 ### 📬 Contact
-**Architected by [Your Name]**
-[Link to your LinkedIn Profile]
+**Architected by [Ariel Hartal]**
+[[Link to your LinkedIn Profile](https://www.linkedin.com/in/ariel-hartal-711320278/)]
