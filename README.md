@@ -28,6 +28,22 @@ I architected and deployed a **Serverless Client Portal** using **Next.js 16** a
 * **Access Control:** Strict IAM policies enforce "Least Privilege" access for backend services.
 * **Session Management:** Secure HttpOnly cookies with CSRF protection.
 
+## 🏗 System Architecture
+> **Visualizing the Serverless Event-Driven Flow**
+> User uploads trigger S3 events, which invoke Lambda to update DynamoDB state and notify staff via Resend.
+
+![AWS Serverless Architecture Diagram](architecture-diagram.png)
+
+---
+
+## 📸 User Interface (Secure Storage)
+> **Adaptive Design: Desktop vs. Mobile**
+> The Documents Portal provides a secure, encrypted view of client files. The interface adapts from a detailed data table on desktop to a touch-friendly card layout on mobile.
+
+| Document Portal (Desktop) | Mobile PWA View (Offline Capable) |
+| :---: | :---: |
+| <img src="desktop-documents.png" width="100%"> | <img src="mobile-documents.png" width="100%"> |
+
 ---
 ### 📬 Contact
 **Architected by [Ariel Hartal]**
